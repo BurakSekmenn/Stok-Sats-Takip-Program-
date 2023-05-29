@@ -23,7 +23,7 @@ Otomasyon Sisteminde bulunan özellikler:
 8)Satışları istenilen şekilde arayıp excep çıktı alma
 
 ---Ekran Görüntüleri---
-<img src="https://www.hizliresim.com/q8uxeg1">
-<img src="https://www.hizliresim.com/kx8b1mw">
-<img src="https://www.hizliresim.com/af1g2on">
-<img src=https://www.hizliresim.com/po05lk7">
+<img src="https://i.hizliresim.com/q8uxeg1.jpeg">
+<img src="https://i.hizliresim.com/af1g2on.jpeg">
+<img src="https://i.hizliresim.com/po05lk7.jpeg">
+<img src="https://i.hizliresim.com/kx8b1mw.jpeg">
