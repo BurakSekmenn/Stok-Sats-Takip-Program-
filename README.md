@@ -1,6 +1,6 @@
 Stok Takip Programı C#
 
-#Lütfen iletişime geçilmeden kullanmayınız.
+[TR]#Lütfen iletişime geçilmeden kullanmayınız.
 
 Devexpress kullanarak oluşturduğum Mağaza Otomasyon Sistemini tanıtmak istiyorum.
 
@@ -22,7 +22,33 @@ Otomasyon Sisteminde bulunan özellikler:
 
 8)Satışları istenilen şekilde arayıp excep çıktı alma
 
----Ekran Görüntüleri---
+
+[ENG]
+
+Stock Tracking Program in C#
+
+#Please do not use without contacting.
+
+I would like to introduce the Store Automation System I created using DevExpress.
+
+Features of the Automation System:
+
+1)User Login
+
+2)Product Addition (addition, cancellation, update, deletion)
+
+3)Product Search by barcode number
+
+4)Printing Product Barcodes
+
+5)Daily Report (listing based on the desired date)
+
+6)Total turnover report between certain dates
+
+7)Finding the total turnover based on a person
+
+Searching sales in the desired format and getting exception output
+---Ekran Görüntüleri && Screenshots---
 <img src="https://i.hizliresim.com/q8uxeg1.jpeg">
 <img src="https://i.hizliresim.com/af1g2on.jpeg">
 <img src="https://i.hizliresim.com/po05lk7.jpeg">
